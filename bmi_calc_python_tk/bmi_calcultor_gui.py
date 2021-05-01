@@ -1,3 +1,9 @@
+#----BMI CALCULATOR GUI-----
+# CREATED BY AYUSH GUPTA
+# FOLLOW ME ON INSTAGRAM @next_coders
+
+
+
 from tkinter import *
 import tkinter.messagebox as tmsg
 
